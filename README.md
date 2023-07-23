@@ -8,6 +8,8 @@ CodeX is a German beverage company that is aiming to make its mark in the Indian
 
 As a marketing data analyst, the task is to provide some useful insights to the marketing team of the company, which is responsible for brand awareness, market shares and product development.
 
+## 🌟 Solution: Link to canva presentation - https://www.canva.com/design/DAFpbZroSww/hsZRKVzSbzCc2wUIJKhnKg/edit?utm_content=DAFpbZroSww
+
 ## 🌟 Let us dive deep into the project & have a look at the data model & all the views which we have created
 
 ## 🌟 Access the live novypro dashboard : - https://www.novypro.com/project/codex-marketing-insights--food-and-beverage-industry
